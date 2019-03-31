@@ -13,7 +13,7 @@ public class MailDemo {
 	// Replace sender@example.com with your "From" address.
     // This address must be verified.
     static final String FROM = "amarkumarsharma.as@gmail.com";
-    static final String FROMNAME = "Vaibhav Tiwari";
+    static final String FROMNAME = "Amar Sharma";
 	
     // Replace recipient@example.com with a "To" address. If your account 
     // is still in the sandbox, this address must be verified.
